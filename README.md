@@ -9,6 +9,3 @@ Instructions on how to install and use the project.
 
 ## Usage
 Explain how to use the project with example commands or code snippets.
-
-## License
-This project is licensed under the MIT License.
